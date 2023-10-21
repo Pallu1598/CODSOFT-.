@@ -10,17 +10,17 @@
   </head>
   <body>
     <header>
-      <h1>Aditya Konda</h1>
-      <p>Web Developer | Full Stack Developer</p>
+      <h1>PALLAVI THOTA</h1>
+      <p>CYBER STUDENT</p>
     </header>
 
     <section id="about">
-      <img src="profile.jpg" alt="Aditya Konda" />
+      <img src="profile.jpg" alt="PALLAVI THOTA" />
     </section>
 
     <section id="about1">
       <h2>
-        I'm a passionate web developer and designer with a keen eye for detail.
+        I'm a cyber security student with a keen eye for detail.
       </h2>
     </section>
 
@@ -29,7 +29,7 @@
       <div class="project">
         <img src="project1.jpg" alt="Project 1" />
         <h3>Project 1</h3>
-        <p>Designed and coded a responsive website for a local business.</p>
+        <p> </p>
       </div>
       <div class="project">
         <img src="project2.jpg" alt="Project 2" />
@@ -45,11 +45,11 @@
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: adityakonda04@gmail.com</p>
-      <p>Phone: 808039260</p>
+      <p>Email: thotapallavi2004@gmail.com</p>
+      <p>Phone: 7989766564</p>
     </section>
     <footer>
-      <p>&copy; 2023 Aditya Konda. All rights reserved.</p>
+      <p>&copy; 2023 Pallavi Thota. All rights reserved.</p>
     </footer>
   </body>
 </html>
